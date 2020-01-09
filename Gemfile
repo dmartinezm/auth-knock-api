@@ -42,3 +42,5 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 #Gems added by Diego
 gem 'knock'
+gem 'jwt'
+gem 'active_model_serializers'
